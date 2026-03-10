@@ -1,7 +1,7 @@
 Explainable CNN Perception for Autonomous Vehicles
 
 Author: Amith Carmel Anthony Raj
-MS ECE, University of Pittsburgh | AirLab CMU Collaborator 
+MS ECE, University of Pittsburgh
 
 ABOUT
 
