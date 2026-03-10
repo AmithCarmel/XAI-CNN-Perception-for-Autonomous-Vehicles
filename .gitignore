@@ -1,0 +1,11 @@
+venv/ 
+results/ 
+*.h5 
+*.keras 
+__pycache__/ 
+*.pyc 
+write_src_files.py 
+data/ 
+.ipynb_checkpoints/ 
+yolov8n.pt 
+*.pt 
