@@ -16,8 +16,8 @@ This project builds an explainability framework for CNN-based autonomous vehicle
 HOW TO RUN
 
 Clone the repo and install dependencies:
-    git clone https://github.com/AmithCarmel/XAI-CNN-Perception-for-Autonomous-Vehicles.git
-    pip install -r requirements.txt
+    1. git clone https://github.com/AmithCarmel/XAI-CNN-Perception-for-Autonomous-Vehicles.git
+    2. pip install -r requirements.txt
 
 Open any notebook and set PROJECT_ROOT at the top of the first cell to your local project path. Run notebook 00 once to auto-sort your KITTI images using YOLOv8 and train the model — weights are saved automatically to results/trained_weights.weights.h5. After that, run notebooks 01 through 04 in any order. To use your own images in notebooks 02, 03, and 04, uncomment the load_from_file line and pass your image path.
 
