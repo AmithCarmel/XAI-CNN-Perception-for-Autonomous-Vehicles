@@ -5,7 +5,7 @@ MS ECE, University of Pittsburgh | AirLab CMU Collaborator
 
 ABOUT
 
-This project builds an explainability framework for CNN-based autonomous vehicle perception, extending gradient ascent filter visualization with Grad-CAM, SmoothGrad, and Integrated Gradients. EfficientNetB0 is trained on 5,985 KITTI driving images across four classes: car, pedestrian, cyclist, and background. The core contribution is a structured ADAS failure analyzer that runs across four safety scenarios — blind spot detection, safe door open, lane change assist, and pedestrian crossing — and uses Grad-CAM heatmaps to spatially explain where and why the model fails. The consistent finding is dominant-class bias: the model attends to the most visually prominent object in the scene rather than the most safety-critical one, confirmed across all four scenarios with HIGH or CRITICAL severity misses in three of the four cases.
+This project builds an explainability framework for CNN-based autonomous vehicle perception, extending gradient ascent filter visualization with Grad-CAM, SmoothGrad, and Integrated Gradients. EfficientNetB0 is trained on 5,985 KITTI driving images across four classes: car, pedestrian, cyclist, and background. The core contribution is a structured ADAS failure analyzer that runs across four safety scenarios, blind spot detection, safe door open, lane change assist, and pedestrian crossing, and uses Grad-CAM heatmaps to spatially explain where and why the model fails. The consistent finding is dominant-class bias: the model attends to the most visually prominent object in the scene rather than the most safety-critical one, confirmed across all four scenarios with HIGH or CRITICAL severity misses in three of the four cases.
 
 
 HOW TO RUN
@@ -19,4 +19,4 @@ Open any notebook and set PROJECT_ROOT at the top of the first cell to your loca
 
 LICENSE
 
-MIT License — free to use, modify, and distribute with attribution.
+MIT License - free to use, modify, and distribute with attribution.
