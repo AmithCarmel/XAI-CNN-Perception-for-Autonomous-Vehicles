@@ -11,6 +11,7 @@ This project builds an explainability framework for CNN-based autonomous vehicle
 <img width="2552" height="1489" alt="door_open_cyclist_analysis" src="https://github.com/user-attachments/assets/e7933cb7-48ba-44b4-a957-221df140a57b" />
 <img width="2552" height="1489" alt="lane_change_car_analysis" src="https://github.com/user-attachments/assets/93399ee4-044e-4e73-9c33-76afca7a1e30" />
 <img width="2552" height="1489" alt="pedestrian_crossing_analysis" src="https://github.com/user-attachments/assets/e8f7a0ac-78cd-46e6-9447-75ddf18fe5d2" />
+<img width="1724" height="632" alt="image" src="https://github.com/user-attachments/assets/5b6092ca-2c76-4697-99de-08e26f32b946" />
 
 HOW TO RUN
 
